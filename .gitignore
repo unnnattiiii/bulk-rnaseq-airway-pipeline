@@ -1,0 +1,12 @@
+# Raw data - too large for GitHub
+raw_data/
+trimmed/
+aligned/*.bam
+aligned/*.bai
+reference/
+
+# Temporary files
+*.tmp
+*.log
+__pycache__/
+.DS_Store

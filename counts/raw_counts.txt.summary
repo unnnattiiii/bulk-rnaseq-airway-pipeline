@@ -1,0 +1,15 @@
+Status	aligned/SRR1039508.bam	aligned/SRR1039509.bam
+Assigned	1266904	1204730
+Unassigned_Unmapped	18835521	17081738
+Unassigned_Read_Type	0	0
+Unassigned_Singleton	890213	846677
+Unassigned_MappingQuality	0	0
+Unassigned_Chimera	62251	58050
+Unassigned_FragmentLength	0	0
+Unassigned_Duplicate	0	0
+Unassigned_MultiMapping	212792	181670
+Unassigned_Secondary	0	0
+Unassigned_NonSplit	0	0
+Unassigned_NoFeatures	1328702	1234786
+Unassigned_Overlapping_Length	0	0
+Unassigned_Ambiguity	55809	50767

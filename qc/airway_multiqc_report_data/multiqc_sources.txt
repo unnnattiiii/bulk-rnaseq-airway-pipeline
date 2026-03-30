@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR1039508_1	/Users/unnati/sepsis_rnaseq/qc/SRR1039508_1_fastqc.zip
+FastQC	all_sections	SRR1039508_2	/Users/unnati/sepsis_rnaseq/qc/SRR1039508_2_fastqc.zip
+FastQC	all_sections	SRR1039509_1	/Users/unnati/sepsis_rnaseq/qc/SRR1039509_1_fastqc.zip
+FastQC	all_sections	SRR1039509_2	/Users/unnati/sepsis_rnaseq/qc/SRR1039509_2_fastqc.zip
